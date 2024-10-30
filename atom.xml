@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.kfckfc.sbs</id>
+    <title>弥雾印象</title>
+    <updated>2024-10-30T12:50:27.208Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.kfckfc.sbs"/>
+    <link rel="self" href="https://blog.kfckfc.sbs/atom.xml"/>
+    <logo>https://blog.kfckfc.sbs/images/avatar.png</logo>
+    <icon>https://blog.kfckfc.sbs/favicon.ico</icon>
+    <rights>All rights reserved 2024, 弥雾印象</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://blog.kfckfc.sbs/post/ce-shi/</id>
+        <link href="https://blog.kfckfc.sbs/post/ce-shi/">
+        </link>
+        <updated>2024-10-29T16:32:10.000Z</updated>
+        <content type="html"><![CDATA[<p>123333<br>
+123</p>
+]]></content>
+    </entry>
+</feed>
